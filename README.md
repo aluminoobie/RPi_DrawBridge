@@ -1,5 +1,5 @@
 # BSidesAugusta STEM Raspberry Pi Draw Bridge Operator
-This project was created for the BSidesAugusta STEM conference.  This python script runs on a Raspberry Pi 3 B+ to simulate a drawbridge operator.  The project used two Tower Pro SG-5010 servos.
+This project was created for the BSidesAugusta STEM conference.  This python script runs on a Raspberry Pi 3 B to simulate a drawbridge operator.  The project used two Tower Pro SG-5010 servos.
 
 Contact: stem@BSidesAugusta.org
 
